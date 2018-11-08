@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "6502CDBC-0D63-48A0-B0B5-693B735044BF",
+  "changeIdentifier": 3,
+  "do_objectID": "999FB351-74D0-438B-9398-8A442A41E435",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,16 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 427,
-    "width": 320,
-    "x": 1684,
-    "y": 2464
-  },
-  "grid": {
-    "_class": "simpleGrid",
-    "gridSize": 8,
-    "isEnabled": true,
-    "thickGridTimes": 0
+    "height": 131,
+    "width": 266,
+    "x": 100,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -48,37 +44,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "26E3A84D-664E-42CC-8157-AF6AE3852FED"
+      "class": "group",
+      "id": "BC56618D-EFA9-4015-B6C5-A947A9FEB0E4"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 22.66666666666667,
-    "drawHorizontal": false,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 4,
-    "guttersOutside": true,
-    "horizontalOffset": 0,
-    "isEnabled": true,
-    "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 320
-  },
-  "name": "Mobile Homescreen @1x",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Mobile",
-    "offersLandscapeVariant": 1,
-    "width": 320
-  },
+  "name": "B-Student List",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -91,6 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "82E433D8-CC48-4148-9C89-04AC0100F9D7",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

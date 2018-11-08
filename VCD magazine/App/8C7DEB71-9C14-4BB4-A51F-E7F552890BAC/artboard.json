@@ -4,15 +4,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "BC1E8F79-3BC5-4301-84A3-7D08B8E3301E",
+    "do_objectID": "DF804B4F-6C55-4B5C-9002-66C6947AEFAD",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "634D3511-06DD-4821-B833-2A9D4F006A03",
+  "do_objectID": "8C7DEB71-9C14-4BB4-A51F-E7F552890BAC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5CB8CCF8-85A5-491D-91C6-CE2287413B14",
+    "do_objectID": "3ECA453D-293E-4CB6-8DA8-5D0409EE4153",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,24 +23,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5D2FD426-3467-4479-9EC1-2575B46BC396",
+    "do_objectID": "8E750B1B-1392-4E16-97E5-4021C32F5B6B",
     "height": 1539,
     "width": 320,
-    "x": 2044,
+    "x": 2397,
     "y": 2463
   },
   "grid": {
     "_class": "simpleGrid",
+    "do_objectID": "747D1063-174D-4031-8745-56C1388FE2D0",
     "gridSize": 8,
     "isEnabled": true,
     "thickGridTimes": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "4DBA5F60-D3C2-46FB-BF4F-A9FA8C1A4904",
+    "do_objectID": "C18EC8D0-6F79-415A-9E4C-326248ABFD53",
     "guides": [
       -820
     ]
@@ -57,24 +58,25 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "DFE82612-390C-4421-B2B7-59CE177C5C0E"
+      "id": "B0AD810F-D4E8-4B8F-B709-E5D93FC67F43"
+    },
+    {
+      "class": "text",
+      "id": "41F5BC28-4597-4905-B4B1-49CFFDFA75B1"
+    },
+    {
+      "class": "text",
+      "id": "7EEACFB3-5D02-4E0F-A793-8B1F5CE6F8C5"
     },
     {
       "class": "group",
-      "id": "A07F0F75-1A3C-4B39-B964-021F0F58CE30"
-    },
-    {
-      "class": "text",
-      "id": "3F007996-15E2-4B58-AB07-66FD95E6B06C"
-    },
-    {
-      "class": "text",
-      "id": "5FD2EA5E-29E2-4939-AA74-181BA155E9AF"
+      "id": "5A1A3128-8FB8-4EDC-87CE-E29A64F73972"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 22.66666666666667,
+    "do_objectID": "DAE08679-3D39-4EB2-9F0A-76C4F1410107",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -87,7 +89,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 320
   },
-  "name": "Mobile Homescreen A @1x Copy",
+  "name": "Mobile Homescreen B @1x",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -103,7 +105,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "48D06240-75CB-4B4F-915F-32703E5113C7",
+    "do_objectID": "AB8C4662-9C28-4563-81CE-64B95A82DE04",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -112,7 +114,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "C0B1A265-F118-44F4-9A9B-B595C7AA20BE",
+    "do_objectID": "4D55B7A0-2BDD-4240-986A-5B686F3D050B",
     "guides": [
       429
     ]
