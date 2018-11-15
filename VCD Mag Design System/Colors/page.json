@@ -1,7 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": -1,
-  "do_objectID": "D2AAA595-67AF-490C-9EF0-DAD15DC141B7",
+  "do_objectID": "F1C746B6-BB4C-4B93-B69E-009A41E1F3D4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -361,
     "guides": [
     ]
   },
@@ -35,23 +35,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "6502CDBC-0D63-48A0-B0B5-693B735044BF"
+      "class": "symbolInstance",
+      "id": "1958D216-2DEA-409F-AA0F-076D6692E411"
     },
     {
-      "class": "artboard",
-      "id": "3474A755-3AD3-4DE4-9A45-B6357EE2966B"
+      "class": "symbolInstance",
+      "id": "D5A122F1-0CDE-4FD3-BE38-54D6E32CA12E"
     },
     {
-      "class": "artboard",
-      "id": "634D3511-06DD-4821-B833-2A9D4F006A03"
-    },
-    {
-      "class": "artboard",
-      "id": "8C7DEB71-9C14-4BB4-A51F-E7F552890BAC"
+      "class": "symbolInstance",
+      "id": "7702AD90-8A7D-4D60-BF4A-6ACA350C2165"
     }
   ],
-  "name": "App",
+  "name": "Colors",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -66,7 +62,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -528,
     "guides": [
     ]
   }
