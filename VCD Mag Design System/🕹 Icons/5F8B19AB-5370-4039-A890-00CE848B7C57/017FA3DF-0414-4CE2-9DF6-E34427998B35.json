@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "017FA3DF-0414-4CE2-9DF6-E34427998B35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BFBF42A-A3EC-48BE-930A-6051B543294A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "994B4F08-DBCB-42EF-9075-6AB7623484AA",
+    "height": 24,
+    "width": 24,
+    "x": 1150,
+    "y": 392
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "moon",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1B2D127-DD0C-40A7-BF50-22CADC02A92B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2EDAC4DF-2271-4CE8-8DE2-26B6B2649D28",
+  "verticalSpacing": 0
+}

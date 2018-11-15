@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "6018807A-2057-474C-8E99-A125AE84F635",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2FBFC8C6-66C8-40A1-AEB3-6C976A46F370",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A8195CC-40AF-46EC-93E3-D9276BD3332D",
+    "height": 24,
+    "width": 24,
+    "x": 690,
+    "y": 140
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "sunset",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "316103C2-C20D-48A9-A890-626F49EA42BF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "143147B9-7CE4-4C80-98E0-B7656225ED34",
+  "verticalSpacing": 0
+}

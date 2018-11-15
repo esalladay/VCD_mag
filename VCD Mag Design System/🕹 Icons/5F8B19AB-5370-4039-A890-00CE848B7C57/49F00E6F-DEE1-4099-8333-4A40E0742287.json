@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "49F00E6F-DEE1-4099-8333-4A40E0742287",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "665078DF-A4A4-49B5-99F1-DC77E116DD16",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "421518A7-7E1E-4D53-9E58-D6908FF2A18C",
+    "height": 24,
+    "width": 24,
+    "x": 1357,
+    "y": 251
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "watch",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F5F51741-8DDA-480C-B274-158D5FA8E770",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC6F0FFF-BC99-4AE8-9572-E4A2C0AE6016",
+  "verticalSpacing": 0
+}

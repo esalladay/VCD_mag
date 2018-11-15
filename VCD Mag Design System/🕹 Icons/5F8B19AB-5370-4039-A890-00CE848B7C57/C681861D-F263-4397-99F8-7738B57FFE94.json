@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "C681861D-F263-4397-99F8-7738B57FFE94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7496552-740C-401D-BB89-3FA11C37A881",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D638957-2E32-4359-9565-B0FD97821633",
+    "height": 24,
+    "width": 24,
+    "x": 387,
+    "y": 461
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "inbox",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01FB196B-6F8C-45E1-A9DB-C1896CC6E4EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "49E24DED-6D66-4187-8DD3-ABD420ACED38",
+  "verticalSpacing": 0
+}

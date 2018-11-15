@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "B6126D92-F484-4B68-A605-24B2E1DA5D11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B580536-88D4-4911-AF05-87BF24E32684",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "488D0A87-1D77-45C7-83F2-13163F062802",
+    "height": 24,
+    "width": 24,
+    "x": 1353,
+    "y": 86
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "video",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73111053-1485-41DA-AFEC-E1B125DA71A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "091D3AAC-45A0-47D9-A36E-2951414638B4",
+  "verticalSpacing": 0
+}

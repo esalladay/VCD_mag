@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "D0D7C767-6859-4C66-8C6C-BBA1D4A1067A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03FC9517-CB37-4863-A162-0324AEAA7CAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FDAB845B-7C12-4ADE-980A-2267060E1533",
+    "height": 24,
+    "width": 24,
+    "x": 1150,
+    "y": 460
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "music",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B15EFB9-DBAD-45A7-A353-7414A996B5EF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F9FEBFE6-901C-4C96-977B-9BD6F6E2DF51",
+  "verticalSpacing": 0
+}

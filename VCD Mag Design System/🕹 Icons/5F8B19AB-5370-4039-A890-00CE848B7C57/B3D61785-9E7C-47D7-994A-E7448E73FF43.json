@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "B3D61785-9E7C-47D7-994A-E7448E73FF43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2DD10168-7260-4FE0-80A7-5ED41AE4BFA7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5316AFB1-5AF2-4687-BAD4-075103FE9C0B",
+    "height": 24,
+    "width": 24,
+    "x": 311,
+    "y": 395
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "burger",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74E75B5C-E79D-4597-B7AD-DB33CA0ADB8D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "476CA23E-08C3-499C-AD79-8EBF5555C108",
+  "verticalSpacing": 0
+}

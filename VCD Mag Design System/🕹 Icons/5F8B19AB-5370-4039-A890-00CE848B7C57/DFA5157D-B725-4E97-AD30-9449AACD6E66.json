@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "DFA5157D-B725-4E97-AD30-9449AACD6E66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "734F9F79-BFF3-4C3A-935D-C1B72EB25A55",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E5CFF43-8A92-4144-BD1E-34AA0A03F60E",
+    "height": 24,
+    "width": 24,
+    "x": 1723,
+    "y": 598
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tablet",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21EBC465-38ED-4F04-8310-1BAC7124E1E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A13A3932-F45F-47DB-939E-E7D7DF54D9E5",
+  "verticalSpacing": 0
+}

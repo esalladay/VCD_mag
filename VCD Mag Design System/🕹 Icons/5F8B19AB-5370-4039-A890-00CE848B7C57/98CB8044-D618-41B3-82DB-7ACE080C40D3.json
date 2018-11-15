@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "98CB8044-D618-41B3-82DB-7ACE080C40D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FFA30C0A-46B0-4A63-B699-3ED8B7FD6058",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F0F2D09-6F2B-4B56-A273-360806FB157B",
+    "height": 24,
+    "width": 24,
+    "x": 1150,
+    "y": 599
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "headphones",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DAA7BBFD-D6B8-4EF2-881D-BD73865637EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9082E714-8925-4890-9F24-4D8098D3730A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "2E2073EF-7B00-42CF-B06D-BDD5D4B2067E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "741E0F88-44F8-4271-8AEC-1607260CCC2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA9ACCA3-DEC0-42FD-AC94-CAF468503D44",
+    "height": 24,
+    "width": 24,
+    "x": 165,
+    "y": 667
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "github",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7EB11DBD-BC17-4DFD-92CA-DBCE0679B677",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C6E31B08-D427-421E-8DE9-200C33F42AD6",
+  "verticalSpacing": 0
+}

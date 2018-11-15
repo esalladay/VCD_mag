@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "54EC5F5E-58D5-4A7C-971C-045CF1B14487",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D81D00D-AFAF-4167-98E9-13AA39D330BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B40CB98-8F52-48D6-8B40-49DBECEE3E75",
+    "height": 24,
+    "width": 24,
+    "x": 994,
+    "y": 668
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "phone-outgoing",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CD6CE2E-683F-40B8-9A1E-AA70DEC7A114",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C3AB6E2F-29B8-42F9-9D49-B03E2B8A80C8",
+  "verticalSpacing": 0
+}

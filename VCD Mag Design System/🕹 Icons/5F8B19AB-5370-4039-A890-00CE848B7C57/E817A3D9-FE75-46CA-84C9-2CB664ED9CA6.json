@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "E817A3D9-FE75-46CA-84C9-2CB664ED9CA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41F17942-15A3-41B1-80CA-8F028EDBC804",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "926D16E4-A012-4FF9-B341-A6472DC954C7",
+    "height": 24,
+    "width": 24,
+    "x": 1428,
+    "y": 194
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "clipboard",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1718FCCD-5201-4664-BB29-013F27B7E736",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2992EE14-32FF-4EE1-A0A9-EA57DAD19A3E",
+  "verticalSpacing": 0
+}

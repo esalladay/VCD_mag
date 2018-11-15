@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "2C0CBF7B-9302-4737-8D87-C69D784A1FD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F653591-20BF-4AD6-8862-65EAA2EB3EA0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D99A2684-08FB-497A-9B1C-F90C4C63236C",
+    "height": 24,
+    "width": 24,
+    "x": 1509,
+    "y": 319
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bluetooth",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A090C1F-E3F0-4411-B8B9-F397FD2239F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "98CC21CF-D7C0-4E15-8CC9-A350BDCC6A74",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "38FE19D3-CE11-4D73-B8FA-489EB4BE65EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C71D181-F424-44D1-9D83-09F8CF12C881",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C90F6A4-AE79-497C-A5B9-9EA5BEDB2DB1",
+    "height": 24,
+    "width": 24,
+    "x": 1646,
+    "y": 140
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "sunrise",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "542CCB45-65E0-46D1-B6E9-5CDAADE30A0E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02A74486-D90C-47D7-A960-9A9BF6234EF2",
+  "verticalSpacing": 0
+}

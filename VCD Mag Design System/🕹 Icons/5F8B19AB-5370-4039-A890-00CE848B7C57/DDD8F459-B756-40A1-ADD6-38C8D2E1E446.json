@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "DDD8F459-B756-40A1-ADD6-38C8D2E1E446",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EBD869D7-7677-4F76-93D1-7021BF5DAF79",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A7F2DCD-729B-4917-8875-B8D053C6167F",
+    "height": 24,
+    "width": 24,
+    "x": 1147,
+    "y": 193
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cloud-rain",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5CCCFF9-4579-479E-8D24-1B68CD01C948",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9E4C6EC6-EB2C-49F2-BD55-16D95FD4E4A3",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "14A8A644-7601-479F-B1C1-2812D150448E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74A6C936-DD10-4305-8B47-2BF61AAB46E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56EF29FB-0B5A-4A1C-A8D2-AAEB0E3CC26F",
+    "height": 24,
+    "width": 24,
+    "x": 1721,
+    "y": 459
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bell",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA9EE50E-B758-4D1C-833A-D46F2B84D5AE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "183B3C56-9FFE-4A4E-8949-AD496CF7D6D5",
+  "verticalSpacing": 0
+}

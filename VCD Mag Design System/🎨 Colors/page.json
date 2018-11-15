@@ -1,0 +1,66 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "25378156-4450-4B30-8BDB-66B2CEB734C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26F60B5B-D4F1-45F0-9230-CE0ED2C49866",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5D49384-9DD6-4457-A329-D4D1F53B216E",
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -553,
+    "do_objectID": "3CC5BB95-B491-470A-8B06-08EF57D6F5A0",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "1E9DD5A2-6C4D-4925-9240-CE6E812043C5"
+    }
+  ],
+  "name": "🎨 Colors",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3C48F1BA-350E-4E0E-A45E-44CAA2F8E2D8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -334,
+    "do_objectID": "DCE76C08-B551-43F2-BC3A-361A52618CA1",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "6B01E010-2D11-40EB-AE74-3033172968E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC53E96E-B9D8-46CB-AEEE-BF2111686031",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "16FF0F07-39BD-4B5B-B2D0-1B078F7D11F1",
+    "height": 24,
+    "width": 24,
+    "x": 1570,
+    "y": 88
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "voicemail",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA01A3B9-3BF0-4AF1-B533-E4D4D0BB30D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EB90459C-1923-42B9-B510-578376D4B8A2",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "288F6185-32AC-4217-BDDD-A04C35E4C08A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2608051A-F242-4B3B-ABDA-FCE92702AE03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "584F22A5-2616-4AFA-8B32-FBEDDB02A400",
+    "height": 24,
+    "width": 24,
+    "x": 1504,
+    "y": 526
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "pie-chart",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "70A3C5E4-EB89-4ACB-988F-827ACFB30E08",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A5AA9B7-F201-49C6-8C7D-82C034DD915A",
+  "verticalSpacing": 0
+}

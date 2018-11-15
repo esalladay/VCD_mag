@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "6056FDE5-7FDF-4F3B-84CC-1C0062579B3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E966BB3E-8D7A-4D43-A7A5-26CE368F79BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "675ECBA0-BEA2-4F28-9559-4DBD4C2A8C02",
+    "height": 24,
+    "width": 24,
+    "x": 843,
+    "y": 672
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "battery",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F084BA0-AB1B-4F8E-B141-6480A707D04B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "688B052F-DB1A-4EAE-A566-87DF65D336AB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "9CA28A66-23F5-4262-9A92-17E5B7C788DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE22D2F6-D82C-445B-A139-642A4F750BE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD497AD4-92F4-436F-97FA-A5F558AF70F9",
+    "height": 24,
+    "width": 24,
+    "x": 1650,
+    "y": 320
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "smartphone",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16775649-B891-471E-B283-27853FACE9C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A41199A-74F5-4FE5-80D8-C75DB1D4A305",
+  "verticalSpacing": 0
+}

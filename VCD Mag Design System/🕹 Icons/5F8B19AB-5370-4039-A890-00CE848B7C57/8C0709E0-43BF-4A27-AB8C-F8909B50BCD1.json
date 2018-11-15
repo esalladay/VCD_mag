@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "8C0709E0-43BF-4A27-AB8C-F8909B50BCD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6858A400-EEAF-49E5-B762-43C019FE11DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0171CDAF-F61E-41A1-A0A7-FE33D0680D7E",
+    "height": 24,
+    "width": 24,
+    "x": 464,
+    "y": 254
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "credit-card",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9719217-F3AA-448B-B06A-F888E2E1C55F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C1720E1A-6B9D-4E54-9684-E9E45E4AC066",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "B5FBE4BD-C6D4-4B6D-AC72-A2E3BB50F9FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C09F402-08FB-4702-BCE8-8221A1408072",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7A40D8A-2F80-4A9D-AC37-09B3B0D16A48",
+    "height": 24,
+    "width": 24,
+    "x": 614,
+    "y": 320
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "life-buoy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A569AC3-1ADC-4A89-9528-A935FE1E003B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C7E4DC1E-4420-448F-A5C6-E2523C38C5BD",
+  "verticalSpacing": 0
+}

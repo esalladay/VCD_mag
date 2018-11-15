@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "A4E20FE5-D725-43DA-8C17-EE96D441C2ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "026D60C8-40C2-4BA8-ADC8-67F7DAA5F966",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5F649DE-4F64-40D1-98FA-56D9A3B8817A",
+    "height": 24,
+    "width": 24,
+    "x": 918,
+    "y": 253
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "message-circle",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D226AF9C-D652-47F0-A395-DA8EAB421A74",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B638376-7043-477A-99B8-4A74F520DEA7",
+  "verticalSpacing": 0
+}

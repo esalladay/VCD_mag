@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "F0E0F8A8-1D0E-4E9D-803E-811D656C50AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E675117-8A32-46D5-A76B-440C9CA05871",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCA671FC-9E90-4EF4-A526-A5C6C6AAC353",
+    "height": 24,
+    "width": 24,
+    "x": 847,
+    "y": 194
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "book",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CDA8DC9-1F6C-43AF-8BFE-677DF7C6FFA3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "399569F0-2194-4FE9-8545-A5D7DBA43E5A",
+  "verticalSpacing": 0
+}

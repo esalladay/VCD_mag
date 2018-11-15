@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "94129C82-93A3-4662-91B0-2F5B8B55FEF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F04C1D5E-85D2-48D2-982F-2ACCB7FBA711",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4890F40E-6010-4D1C-A723-D8CDD87EA616",
+    "height": 24,
+    "width": 24,
+    "x": 539,
+    "y": 194
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cloud-snow",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29BA196E-D149-41E4-9891-B8A4BA51EDFB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE7C2360-FB3D-4361-91B5-0F818ACC7B0B",
+  "verticalSpacing": 0
+}

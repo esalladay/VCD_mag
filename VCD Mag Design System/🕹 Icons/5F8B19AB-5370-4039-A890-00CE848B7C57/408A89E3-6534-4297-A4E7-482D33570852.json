@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "408A89E3-6534-4297-A4E7-482D33570852",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "177694FB-C09E-4BD3-BFA2-85C556756E27",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C6E6FE79-8707-492D-88EA-C5BD127D44A9",
+    "height": 24,
+    "width": 24,
+    "x": 1070,
+    "y": 193
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cloud-lightning",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CD0F0A6D-D414-44FA-8ACF-7F21D13C8603",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AFB9D91C-812C-4558-A758-C6DAC6D3C1D5",
+  "verticalSpacing": 0
+}

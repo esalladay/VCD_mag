@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "FBD3AD3E-62A4-4A44-B197-CA54115C8F67",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88AC1DBD-BC10-4160-BDAB-4F1072D1B8D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B4D8AB4F-84FA-4D04-9AD5-15AF5B13C3C6",
+    "height": 24,
+    "width": 24,
+    "x": 1222,
+    "y": 391
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "chrome",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99D2783F-D897-4FB2-942E-6A1FC3998174",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "342A1648-D4C2-45C8-B4FB-E5C6B3D28838",
+  "verticalSpacing": 0
+}

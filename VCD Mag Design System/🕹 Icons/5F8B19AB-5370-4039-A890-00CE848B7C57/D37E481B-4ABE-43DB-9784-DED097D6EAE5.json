@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "D37E481B-4ABE-43DB-9784-DED097D6EAE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EBD90FB5-2111-40BF-B281-4FF0176A03D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED7B8660-DCB6-424C-8C5D-69B2BDBE2E58",
+    "height": 24,
+    "width": 24,
+    "x": 1571,
+    "y": 668
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "phone-incoming",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A169080C-00E2-4B96-95D1-37AFB784577C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3D771DD4-B293-4A5F-9F85-8A2498F6FC7A",
+  "verticalSpacing": 0
+}

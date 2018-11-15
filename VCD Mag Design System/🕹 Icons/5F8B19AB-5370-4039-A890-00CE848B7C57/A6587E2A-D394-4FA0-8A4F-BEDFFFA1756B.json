@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "A6587E2A-D394-4FA0-8A4F-BEDFFFA1756B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "916B5154-FDD3-47B7-8B43-F2F595647499",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "059C1624-1742-4D0C-97E0-4F14714F6A05",
+    "height": 24,
+    "width": 24,
+    "x": 1572,
+    "y": 391
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "play-circle",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D12F113B-6497-4552-AE44-4639168A30EA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8CF3561-36B8-456B-AF44-67555EA2A3CE",
+  "verticalSpacing": 0
+}

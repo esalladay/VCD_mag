@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "5FCA85E8-650A-4CF8-9788-DAB50F0389B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16BCB0BE-4303-4240-8A6F-E3F3A31A59A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C09AD0CE-3309-4616-9B1D-6FDF93BF7D4A",
+    "height": 24,
+    "width": 24,
+    "x": 1509,
+    "y": 201
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "chevron-up",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E24E729C-128B-4BC0-B89A-17650D36DB83",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7D26CC17-3E0B-42EB-A1EE-45EFDC267295",
+  "verticalSpacing": 0
+}

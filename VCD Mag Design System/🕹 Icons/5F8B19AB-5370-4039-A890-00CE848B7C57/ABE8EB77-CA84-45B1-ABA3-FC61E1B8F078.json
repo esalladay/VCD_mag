@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "ABE8EB77-CA84-45B1-ABA3-FC61E1B8F078",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0E70302-78A1-4AF5-A617-FC91BC2DCC34",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AEAAEF42-CDA3-4BDF-8331-2D15A944D3F2",
+    "height": 24,
+    "width": 24,
+    "x": 1359,
+    "y": 139
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "thermometer",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C697558-E27D-4C59-9120-91966E0AF6DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1E27D797-C1B6-445A-B2D1-7877E6723A18",
+  "verticalSpacing": 0
+}

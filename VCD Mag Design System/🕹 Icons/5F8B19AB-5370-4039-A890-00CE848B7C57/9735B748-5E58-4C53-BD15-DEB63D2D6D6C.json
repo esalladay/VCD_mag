@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "9735B748-5E58-4C53-BD15-DEB63D2D6D6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27075843-C72C-4AAE-BFDE-2EA154A6AE41",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "16AC2850-CB70-4DE2-ADA4-74C10C75FDA4",
+    "height": 24,
+    "width": 24,
+    "x": 768,
+    "y": 142
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wind",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A00F27C-D1C6-4744-91E9-563D6E784DAD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "83132954-CCF9-4E7D-87FA-0EE0E0070D4D",
+  "verticalSpacing": 0
+}

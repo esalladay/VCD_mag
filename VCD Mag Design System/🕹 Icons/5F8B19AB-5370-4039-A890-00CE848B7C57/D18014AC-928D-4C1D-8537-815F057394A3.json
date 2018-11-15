@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "D18014AC-928D-4C1D-8537-815F057394A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "383E9A26-EBE4-4028-B19A-E17BC11DCB33",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF9A1FE8-1101-43F4-9916-65BA2070B239",
+    "height": 24,
+    "width": 24,
+    "x": 614,
+    "y": 598
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "film",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A16A7E93-7550-4D6D-B7FE-B1B9AD6E99E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8C14B8F3-05A4-479C-9142-D44DD0D69698",
+  "verticalSpacing": 0
+}

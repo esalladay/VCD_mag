@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "5D110ACD-D550-4A92-9522-1DF782DF2DD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E283666-0F72-4AFE-89A8-135CA5AA9963",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C06694C8-E449-4952-8532-D0DEA65CD96D",
+    "height": 24,
+    "width": 24,
+    "x": 1424,
+    "y": 253
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "download-cloud",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7647B513-A9DC-444C-8247-2AEB95199A26",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5442F39C-2ACC-44B5-8BC8-9E23A556C95E",
+  "verticalSpacing": 0
+}

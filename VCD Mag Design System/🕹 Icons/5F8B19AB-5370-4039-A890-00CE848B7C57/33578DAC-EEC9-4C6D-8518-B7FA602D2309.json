@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "33578DAC-EEC9-4C6D-8518-B7FA602D2309",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "934F8249-ACA3-4D30-B9F7-73C684584CF7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25174B43-FC91-4629-9171-505207159812",
+    "height": 24,
+    "width": 24,
+    "x": 767,
+    "y": 81
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "slack",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF2F5E34-54E0-4BAC-ADEC-5353426621E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F2645F9C-B9BA-4443-A996-0F21BA027D1D",
+  "verticalSpacing": 0
+}

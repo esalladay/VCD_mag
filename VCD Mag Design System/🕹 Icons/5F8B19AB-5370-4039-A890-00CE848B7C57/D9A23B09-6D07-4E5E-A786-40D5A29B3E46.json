@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "D9A23B09-6D07-4E5E-A786-40D5A29B3E46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39E0F2BE-80DF-4D2F-A3BE-73AFB99768D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1597F74E-AC14-4E98-B83A-28B9B38CA58D",
+    "height": 24,
+    "width": 24,
+    "x": 306,
+    "y": 669
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "refresh-ccw",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1C1815E-C2BF-4C0B-BC67-07A39BF87660",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B1C6B922-4197-4198-B1BE-91FD2A5E0D81",
+  "verticalSpacing": 0
+}
